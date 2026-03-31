@@ -1,8 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Omkrishna Aware
+# Author: Jayvardhan Singh Bhati
 
-STUDENT_NAME="Omkrishna Aware"
+STUDENT_NAME="Jayvardhan Singh Bhati"
+Registration_NUMBER="24MIM10072"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
